@@ -7,3 +7,11 @@
 .espaco {
     margin-top: 25px;
 }
+
+footer {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
